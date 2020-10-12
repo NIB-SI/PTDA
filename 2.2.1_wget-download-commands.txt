@@ -1,0 +1,2 @@
+wget -c https://sra-pub-src-1.s3.amazonaws.com/SRR10999774/HB1501-3dpi-2_1.fq.gz.1
+wget -c https://sra-pub-src-1.s3.amazonaws.com/SRR10999774/HB1501-3dpi-2_2.fq.gz.1

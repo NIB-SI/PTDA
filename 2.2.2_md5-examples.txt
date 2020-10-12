@@ -1,0 +1,3 @@
+md5sum HB1501-3dpi-2_*
+> c8e97f7fdc8d334bafd873549f148a6b  HB1501-3dpi-2_1.fq.gz.1
+> c5ed105223fe489dd2bade47956ee8ce  HB1501-3dpi-2_2.fq.gz.1
